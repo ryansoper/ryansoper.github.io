@@ -56,3 +56,15 @@
     padding-top: 5px;
     padding-bottom: 5px;
 }
+
+.software-content {
+    padding-top: 50px;
+}
+
+.software-content-left {
+    padding:30px;
+}
+
+.software-content-right {
+    padding:30px
+}
